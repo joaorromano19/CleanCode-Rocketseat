@@ -35,7 +35,6 @@ pip install -r requirements.txt
 
 Após configurar o ambiente, rode o projeto com:
 python run.py
-(substitua main.py pelo arquivo principal do seu projeto, se necessário)
 
 ## Padrões de Código
 Este projeto segue os princípios de Clean Code, priorizando:
